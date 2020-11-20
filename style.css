@@ -1,0 +1,189 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+
+padding:auto;
+}
+
+header{
+	height: 150px;
+	background-color:#2C3E50; 
+	margin: auto;
+	margin-top:auto;
+}
+header h2{
+	float:left;
+	margin: 10px;
+	margin-top:30px;  
+	color: white;
+}
+header ul li a{  
+	color: white; 
+	margin-top: 10px;
+
+}
+.ul .nav-item .nav-link {
+	color: white;
+}
+section {
+	background-color:#18BC9C; 
+	height: 480px;
+	text-align: center;
+	margin-bottom: 200px;
+}
+section h1 {
+	color: white;
+	text-align: center;
+}
+section p {
+	color: white;
+	text-align: center;
+}
+section img{
+	border-radius: 50%;
+	margin-top:10px;
+	float:center; 
+}
+article {
+	height: 800px;
+	text-align: center; 
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+	
+}
+article .card-group .card {
+	height: 310px;
+	padding: 20px;
+	background-color: white;
+	border-style: none;
+	margin: auto;
+
+}
+ article .contenedor{
+ 	height: 600px;
+ 	width: 1100;
+ }
+
+ article h2 a {
+ 	text-align: center;
+ 	color: black;
+ }
+
+ article p{
+ 	color: black;
+ }
+
+ article #CONTACT{
+	 background-color: white;S
+ }
+ .container{
+ 	height: 480px;
+ 	margin-top: 50px;
+ 	text-align:center; 
+	 
+	 margin:auto;
+
+}
+.container a{
+	color: white;
+	
+}
+.container h2{
+	color: white;
+	margin-top: 20px;
+}
+.container p{
+	color: white;
+}
+
+button{
+	border-color: white;
+	background-color: #18BC9C;
+	color: mediumseagreen;
+	margin-bottom: 20px;
+}
+.container .row{
+	color: white;
+}
+form{
+	height: 580px;
+	justify-content: center;
+	padding: 20px;
+	margin-top: 10px;
+}
+form h2 {
+	text-align: center;
+}
+form p {
+text-align: center;
+}
+form h2 a{
+	color: black;
+	text-align: center;
+
+}
+.card-group .card{
+	height: 390px;
+	background-color:#303030;
+		
+}
+.card-group .card  .card-body h5 {
+	color: white;
+	text-align: center;
+	margin-top: 20%;
+}
+.card-group .card .card-body p{
+	color: white;
+	text-align: center;
+}
+.card-group .card .card-body ul{
+	color: white;
+	list-style-type: none; 
+	text-align: center;
+}
+.card-group .card .card-body b{
+	color:#18BC9C;
+}
+.card-group .card-body ul i{
+	color: white;
+	display:inline;
+	font-size: 1.2em;
+	padding:0.1em;
+}
+.card-group .card-body ul{
+	display: inline;
+}
+
+
+footer {
+	background-color:#0e0e0e; 
+	text-align: center;
+	height:60px;
+	margin-top: 200px;
+	
+
+}
+footer h6{
+color: white; 
+}
+footer .card-footer{
+	background-color: black;
+
+}
+.conta #CONTACT{
+	height:600;
+	align-content: center;
+	background-color: white;
+	margin-left: 40px;
+	margin-bottom: 40px; 
+	color: black;
+	  } 
+	.conta #CONTACT h2{
+		color:black;
+		align-content: center;
+		align-items: center;
+		text-align: left;
+	}
